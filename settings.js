@@ -22,12 +22,12 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = 'ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ';
-global.owner = ['94719199757','94703475691'];
-global.premium = ['94719199757','94703475691'];
+global.ownername = 'ＲＯＭＥＫ ＸＤ ';
+global.owner = ['919341378016','918433897160'];
+global.premium = ['919341378016','918433897160'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
-global.caption = ' 👨‍💻 ＶＡＪＩＲＡ ＭＤ V3 👨‍💻';
+global.author = 'romek';
+global.caption = ' 👨‍💻 ＲＯＭＥＫ-ＸＤ-ＢＯＴ 👨‍💻';
 global.sessionName = 'session';
 global.prefa = ['!', '.'];
 global.sp = '✪';
@@ -45,13 +45,13 @@ global.mess = {
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 };
 global.link = 'https://youtube.com/@gamingewingyt6216?si=IHmBhi2R69ao6jcG'
-global.linkGroup = 'https://chat.whatsapp.com/JNAASTo0fMo3N4luk8arve'  
-global.logo = process.env.LOGO || "https://telegra.ph/file/bb92c9c4e66b6b6045feb.jpg",        
-global.ANTI_BOT = process.env.ANTI_BOT || "false",        
+global.linkGroup = 'https://chat.whatsapp.com/HsSmtZoETQMCfRdkyT1uih'  
+global.logo = process.env.LOGO || "https://telegra.ph/file/90fef8b9d1734f95fbec4.jpg",        
+global.ANTI_BOT = process.env.ANTI_BOT || "true",        
 global.typemenu = 'v1' // 'v1' => 'v5'
 global.onlygroup = false // onlygroup
 global.onlypc = false
-global.AUTO_ABOUT = false
+global.AUTO_ABOUT = true
 global.limitawal = {
     premium: 'Infinity',
     free: 10
